@@ -1,83 +1,102 @@
-# Web Typography, 2020/2021
+## ONDERBOUWING
 
-Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als *closed caption*, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
+# Opdracht {
+    Voor deze opdracht moesten we uit de film blade runner 2049, videofragmenten van de baseline testen. De bedoeling is dat we het beeld om de video heen en de tekst zo vormgeven dat het zonder geluid hetzelfde gevoel geeft, als met geluid. Dit is vooral fijn voor mensen die doof of slechthorend zijn. Vaak is de ondertiteling van een film heel saai. Geluiden zoals bijvoorbeeld voetstappen op de grond worden gewoon als: voetstappen* in de ondertiteling gezet. Mensen die slechthorend of doof zijn missen dingen dan van de film die horende wel kunnen horen en zo uiteindelijk ook een gevoel bij kunnen krijgen. Dit ga ik vormgeven met behulp van html, css en javascript.
+}
 
-Alleen wordt die auditieve informatie nogal neutraal beschreven. Het geluid van huilend persoon zou bijvoorbeeld beschreven kunnen worden als *snikgeluid op de achtergrond*. En iemand die lacht zou geschreven kunnen worden als *iemand lacht.* Heel neutraal, bijna zakelijk, en bovendien allebei in precies hetzelfde neutrale lettertype. Terwijl het toch echt over twee heel verschillende emoties gaat. 
+# Lettertype {
+    Voor het lettertype bij mijn ondertiteling heb ik gekozen voor optie 2. Brenner. Ik dacht aan het begin iets meer over de typografie na te willen denken, maar eindstand heb ik daar niet veel in veranderd om eerlijk te zijn. Wel heb ik de 'fuck-off skinjob!' lichter gemaakt. Zo heb ik verschillende soorten brenner gebruikt.
+}
 
-Dat kan visueel sterker. 
+# Waar ik nog niet tevreden mee was {
+    Ik ben uberhaupt niet heel goed in coderen. Ik vind het altijd zo jammer dat als ik iets in mijn hoofd heb waarvan ik denk'ja, dit is vet om erin te doen!' Dan ben ik er uren mee bezig en dan lukt het me steeds niet. Bijvoordbeeld:
 
-En dat gaan jullie doen.
+    Als ik meer tijd had gehad voor deze opdracht had ik graag nog een zoom en een shake op het beeld willen zetten. Ik had wel een zoom er al opgezet maar het lukte me niet om dat nog goed te krijgen met de glitch gif die ik er ook op had gezet. Daarom staan die uit gecomment in mijn code.
 
-## Leerdoelen
+    Oorspronkelijk had ik er ook een shake opgezet. Omdat de zoom niet lukte met het filter erover was ik nog niet eens toegekomen om de shake te laten werken met het beeld wat in zou moeten zoomen en het filter.
 
-- Je kan de kennis over vormgeving die je hebt opgedaan tijdens de minor technisch toepassen met behulp van CSS
-- Je kan verborgen nuance uit een audiotrack overtuigend vertalen naar visuele (typografische) beelden
-- Je kan je typografische keuzes onderbouwen.
-- Je hebt de exclusive design principles gebruikt.
+    Wat ik ook niet snapte, maar wat ik overgens wel aan andere heb gevraagd is waarom ik mijn witte animatie voor een alarm niet
+    allemaal soort van in één kon zetten. Hij pakte dan steeds maar eentje terwijl ik wel een comma ertussen gebruikte. Ik heb ze nu alle alarmen die ik wilde vormgeven apart moeten zetten als animaties, terwijl er veel hetzelfde zijn.
+}
 
-## Oplevering
+# Stemmen {
+    Er zijn verschillende stemmen die je kan horen.
+    Stem 1: Als eerste hoor je een stem die K oproept. Ook is het de stem die uit de luidsprekers komt, die een beetje robot achtig klinkt.
+        De stem van de persoon uit de luidsprekers heb ik een soort glitch effect gegeven om vorm te geven dat de stem uit een luidspreker komt.
+    Stem 2: Deze is van K. De hoofdpersoon. Hij legt een test af.
+    Stem 3: Is van een persoon die langs de hoofdpersoon K loopt in de gang. Hij scheld K in een beetje een fluisterende agressieve toon uit.
+    Stem 4: Stem 4 is een soort monotome stem van een persoon. 
+}
 
-Je levert een werkende versie op, gemaakt met HTML, CSS en JavaScript. Deze staat op Github. In een duidelijke readme documenteer en onderbouw je je ontwerpkeuzes. Je developmentgeschiedenis is terug te vinden op GitHub.
+# Design keuzes {
+    - Ready?    
+        deze heb ik iets later dan de andere tekst erin laten komen en ook dikgedrukt en italic gemaakt. Dit omdat ik het woordje wel iets meer wilde benadrukken. Omdat als ik aan 'ready' denk, denk ik aan klaar om te gaan, daarom italic. Maar ik wilde het ook weer niet heel groot maken of echt heel anders omdat het woord niet op een andere toon gezegd wordt.
+    
+    - Sound 1
+        Bij sound 1 hoor je een alarm. Ik heb dit met keyframes een kleine animatie in het rood gegeven omdat bij dit alarm geluid dacht aan iets dat fout ging. Daarom rood.
 
-Je levert ook een *screen recording* met audio op van je fragment. Dit is een video van de definitieve versie, gemaakt van jouw browserscherm.
+    - Sound 3 
+        Bij dit alarm heb ik hetzelfde bijna gedaan als bij sound 1, alleen is het nu wit. Omdat ik bij dit alarm meer dacht aan gewoon het geluid van een machine.
 
-De beoordeling is mondeling en volgt [de rubric uit het beoordelingsformulier](web-typografie-beoordeling.pdf).
+    - Blood-Black
+        Ik probeerde eerst druppels bloed onder het woord te laten animaren. Dat was me helaas ook niet gelukt. Dus toen had
+        ik het gewoon alleen een tekst schadow gegeven en het zo gehouden, omdat ik geen bloed effectje kon maken:(
 
-## Typografische restricties
+    - Fuck off, skinjob
+        Deze tekst heb ik lichter gemaakt. Bij het eerste voortgangsgesprek had ik deze tekst groter en bold gemaakt. Maar toen
+        kreeg ik feedback dat het dan lijkt alsof hij het schreeuwt, wat helemaal niet zo is. Daarom heb ik de tekst lichter gemaakt
+        en wat meer naar zijn hoofd verplaatst zodat het meer lijkt alsof hij het fluisterd.
+    
+    - Intercom tekst
+        Voor de tekst van de intercom heb ik er voor gekozen om de tekst een beetje glitchy eruit te laten zien, om zo goed te
+        kunnen onderscheiden van wat de intercom zegt en wat het hoofdpersonage zegt. Eerst had ik alleen de woorden als 'cells'
+        en 'interlinked' dit effect gegeven maar ik kreeg de feedback dat je zo niet zo goed kan onderscheiden wie wat zegt en
+        daar was ik het wel mee eens, dus heb ik dat aangepast.
 
-Je *moet* een van deze twee opties kiezen, en je keuze moet je onderbouwen. In je readme staat een uitleg over je overwegingen om de ene of de andere restrictie te kiezen.
+    - Glitch effect op beeld
+        Om die piep een beetje vorm te geven heb ik ook zo'n glitch effect op het beeld gezet, wat steeds meer zichtbaar wordt
+        naarmate je die piep harder hoort. Door dat effect heel aprupt te stoppen wilde ik de stilte die daarna kwam vorm te geven.
+    }
+}
 
-### Optie 1: Systeemfont
+# Exclusive design principles {
+    Een film bestaat simpel weg uit 2 hele belangrijke elementen. Namelijk beeld en geluid. Maar voor mensen die slecht of niet
+    kunnen horen valt dus een heel belangrijk element van een film weg. De vraag is hoe los je dit op? Hoe sluit je deze mensen
+    niet buiten?
+    
+    - Study Situation
+        Ik heb deze clip heel vaak over en over zonder en met geluid enondertiteling bekeken en met elkaar vergeleken. Het was
+        een hele saaie scene vond ik zelf met maar ook vooral zonder geluid. Wat ik ook vond was dat ik vaak een ander gevoel
+        interpeteerde van de scene en de ondertiteling zonder geluid. Dan met die van met geluid. Dit wilde ik dus een beetje 
+        gaan rechttrekken door de geluiden visueel te maken.
+    }
+        
+    - ignore Conventions
+        De situatie is vrij simpel maar toch complexer dan je denkt blijkbaar. Voor doven of slecht hoorende mensen is er namelijk wel ondertiteling. Maar dit is vaak heel erg oppervlakkig. Het gevoel wat geluid je moet geven bij een film wil je overbrengen... Maar dan zonder geluid te gebruiken. Dus na het bekijken van de film zonder geluid met alleen ondertiteling is dit heel saai voor deze groep gebruikers.
+    }   
 
-De eerste optie is dat je gebruik maakt van het zogenaamde *systeemfont* van degene die naar jouw werk kijkt. Dit font verschilt per operating system, en het verschilt soms zelfs per versie van het operating system. Het is ook aan te passen door de gebruiker zelf. 
+    - Prioritise Identity
+        Omdat deze groep gebruikers dus niet of nauwlijks hoort heb ik mijn design voor deze groep mensen iets interessanter gemaakt,om voor hun te zien. Nu worden deze groep mensen niet uitgesloten en kunnen ze iets meer het gevoel van het geluid van een film visueel beleven.
+    }
 
-Je hebt dus geen controle over welk lettertype er precies gebruikt wordt. Het levert dus een onzeker, en beperkt typografisch palet op. Je hebt geen *light* versies, of *extrabold*. En ook geen serif en sans-serif versie van dezelfde familie. In dit geval heb je alleen de beschikking over normal, **bold** en _italic_. Dit heeft natuurlijk ook zijn voordelen!
+    - Add Nonsense
+        Ik heb een aantal elementen toegevoegd die bijdragen aan het gelijkwaardig maken van het gevoel van de film met geluid dan die van zonder geluid. Dit betekende dat ik bijvoorbeeld 'vervelende' visuele elementen toe moest voegen, omdat het geluid ook vervelend was. Dit gaat eigenlijk tegen al mijn principes in als designer, omdat ik gewend ben om mooie en fijne dingen te maken voor gebruikers. Nu dus even niet.
+    }
+}
 
-### Optie 2: Brenner
+# Feedback momenten  {
+    In het eerste feedback moment kwamen de volgende punten naar voren waar we (het feedback groepje) en ik op moesten letten/verbeteren:
+    -   Het mag gedurfder, mag meer, juist veel proberen is goed
+    -   Het glitch effect niet alleen op woorden zoals "interlinked" en "cells", dat paste niet goed
+    -   Maak een duidelijk onderscheid in de scene van de hoofdpersoon en de intercom tussen de twee verschillende stemmen
+    -   Maak bijvoorbeeld alleen de intercom stem glitchy
 
-Je kan er ook voor kiezen om gebruik te maken van de complete Brenner familie. Dit is een zeer uitgebreid en uiterst flexibel font. [Hier kan je je verdiepen in dit font](https://www.typotheque.com/blog/brenner_an_unusual_typeface_family_with_distinct_voices). Als je kiest voor dit font dan heb je de beschikking over een *sans serif*, een *condensed*, een *serif*, een *monotype*, een *slab*, een *display* en een *script* versie. En veel van deze versies hebben varianten van *light* tot *bold*, en allemaal zowel *bold* als *italic*.
+    Bij het tweede feedback moment:
+    -   Nog een paar geluidjes missen die nog toevoegen zoals alarmen
+    -   Het glitch effect nog echt op het beeld proberen met svg’s vragen aan sam
+    -   Het glitch effect op de tekst is goed op de luidspreker stem en die van de hoofdpersoon
+}
 
-Met Brenner zijn er natuurlijk veel en veel meer mogelijkheden dan met systeemfonts. Dat kan zowel een voordeel als een nadeel zijn. 
-
-Voor een overzicht, zie [de brenner.pdf](brenner.pdf).
-
-## Het fragment
-
-Ik heb een fragment voorbereid. Het gaat om twee scenes uit *Blade Runner 2049*. De captions staan in de HTML, en ze verschijnen in sync met de video. [Kijk maar](closed-captions/index.html).
-
-### De captions
-
-De captions staan in de html, in het bestand index.html. Je kan aan elke paragraaf eventueel een of meer classes toevoegen. Bijvoorbeeld `voice1` of `voice2 soft`. Classes voeg je handmatig toe in de html.
-
-Met JavaScript worden er een paar dingen extra gedaan: 
-
-- er wordt aan elke paragraaf een unieke class toegevoegd (`p0`, `p1`, etc)
-- Elk woord wordt in een aparte `span` gezet. Hierdoor kan je elk woord apart stylen, en eventueel ook [na elkaar laten verschijnen](https://github.com/cmda-minor-vid/web-typography-18-19/blob/master/closed-captions/css.css#L41).
-
-### Tijdens het afspelen
-
-Tijdens het afspeelen wordt er een class `on` op de caption gezet als hij moet verschijnen, en een class `off` als hij klaar is. *Zowel class `on` als class `off` blijft op de caption staan!*
-
-De timimg van de captions kan je aanpassen in [closed-captions/captions.js](closed-captions/captions.js).
-
-Er verschijnen ook classes op de body op momenten dat er geluiden worden afgespeeld, zoals `sound1` en `sound2`. Je kan geluiden toevoegen in [closed-captions/sounds.js](closed-captions/sounds.js).
-
-*let op,* de geluiden zijn niet compleet, dit zal je zelf moeten aanvullen.
-
-## Een eigen fragment (afgeraden, uitgebreide onderbouwing is nodig)
-
-Je kan er ook voor kiezen om een eigen, *beter* fragment te gebruiken. Dit wordt afgeraden. De tijd die je besteedt aan het zoeken naar dat fragment kan je beter besteden aan het werken aan de opdracht. Bovendien blijkt dat er vaak fragmenten worden gekozen die niet goed voldoen aan de opdracht. Als je een ander fragment kiest dan *moet* je dit goed onderbouwd voorleggen aan je docent. De deadline hiervoor is vrijdagochtend in de eerste week.
-
-### Waar moet je op letten bij het kiezen van een eigen fragment.
-Lees de opdracht nog eens goed door. Waar gaat het ook al weer precies om? 
-
-Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vragen in elk geval beantwoorden:
-
-- Welke informatie zit er in de audio die echt niet zichtbaar is?
-- Welke rol speelt de audio in het fragment?
-- Werkt de scene nog zonder geluid?
-- Waarom is dit fragment beter dan het aangeboden fragment?
-
-Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
-
-Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+# Herkansing {
+    Voor de herkansing moest ik alleen de Exclusive Design Principles toevoegen omdat ik die vergeten, ik moest nog wat meer aam mijn readme toevoegen en ik moest de vormgeving van mijn pieptoon nog iets langzamer op laten komen.
+}
