@@ -17,62 +17,62 @@ Wat ik ook niet snapte, maar wat ik overgens wel aan andere heb gevraagd is waar
 
 # Stemmen 
 Er zijn verschillende stemmen die je kan horen.
-    -   Stem 1: Als eerste hoor je een stem die K oproept. Ook is het de stem die uit de luidsprekers komt, die een beetje robot achtig klinkt. De stem van de persoon uit de luidsprekers heb ik een soort glitch effect gegeven om vorm te geven dat de stem uit een luidspreker komt.
-    -   Stem 2: Deze is van K. De hoofdpersoon. Hij legt een test af.
-    -   Stem 3: Is van een persoon die langs de hoofdpersoon K loopt in de gang. Hij scheld K in een beetje een fluisterende         agressieve toon uit.
-    -   Stem 4: Stem 4 is een soort monotome stem van een persoon. 
+-   Stem 1: Als eerste hoor je een stem die K oproept. Ook is het de stem die uit de luidsprekers komt, die een beetje robot achtig klinkt. De stem van de persoon uit de luidsprekers heb ik een soort glitch effect gegeven om vorm te geven dat de stem uit een luidspreker komt.
+-   Stem 2: Deze is van K. De hoofdpersoon. Hij legt een test af.
+-   Stem 3: Is van een persoon die langs de hoofdpersoon K loopt in de gang. Hij scheld K in een beetje een fluisterende         agressieve toon uit.
+-   Stem 4: Stem 4 is een soort monotome stem van een persoon. 
 
 # Design keuzes 
-    -   Ready?    
+-   Ready?    
     Deze heb ik iets later dan de andere tekst erin laten komen en ook dikgedrukt en italic gemaakt. Dit omdat ik het woordje wel iets meer wilde benadrukken. Omdat als ik aan 'ready' denk, denk ik aan klaar om te gaan, daarom italic. Maar ik wilde het ook weer niet heel groot maken of echt heel anders omdat het woord niet op een andere toon gezegd wordt.
     
-    -   Sound 1
+-   Sound 1
     Bij sound 1 hoor je een alarm. Ik heb dit met keyframes een kleine animatie in het rood gegeven omdat bij dit alarm geluid dacht aan iets dat fout ging. Daarom rood.
 
-    -   Sound 3 
+-   Sound 3 
     Bij dit alarm heb ik hetzelfde bijna gedaan als bij sound 1, alleen is het nu wit. Omdat ik bij dit alarm meer dacht aan gewoon het geluid van een machine.
 
-    -   Blood-Black
+-   Blood-Black
     Ik probeerde eerst druppels bloed onder het woord te laten animaren. Dat was me helaas ook niet gelukt. Dus toen had ik het gewoon alleen een tekst schadow gegeven en het zo gehouden, omdat ik geen bloed effectje kon maken:(
 
-    -   Fuck off, skinjob
+-   Fuck off, skinjob
     Deze tekst heb ik lichter gemaakt. Bij het eerste voortgangsgesprek had ik deze tekst groter en bold gemaakt. Maar toen kreeg ik feedback dat het dan lijkt alsof hij het schreeuwt, wat helemaal niet zo is. Daarom heb ik de tekst lichter gemaakt en wat meer naar zijn hoofd verplaatst zodat het meer lijkt alsof hij het fluisterd.
     
-    -   Intercom tekst
+-   Intercom tekst
     Voor de tekst van de intercom heb ik er voor gekozen om de tekst een beetje glitchy eruit te laten zien, om zo goed te
     kunnen onderscheiden van wat de intercom zegt en wat het hoofdpersonage zegt. Eerst had ik alleen de woorden als 'cells'
     en 'interlinked' dit effect gegeven maar ik kreeg de feedback dat je zo niet zo goed kan onderscheiden wie wat zegt en
     daar was ik het wel mee eens, dus heb ik dat aangepast.
 
-    -   Glitch effect op beeld
+-   Glitch effect op beeld
     Om die piep een beetje vorm te geven heb ik ook zo'n glitch effect op het beeld gezet, wat steeds meer zichtbaar wordt naarmate je die piep harder hoort. Door dat effect heel aprupt te stoppen wilde ik de stilte die daarna kwam vorm te geven.
     
 # Exclusive design principles 
 Een film bestaat simpel weg uit 2 hele belangrijke elementen. Namelijk beeld en geluid. Maar voor mensen die slecht of niet kunnen horen valt dus een heel belangrijk element van een film weg. De vraag is hoe los je dit op? Hoe sluit je deze mensen niet buiten?
     
-    -   Study Situation
+-   Study Situation
     Ik heb deze clip heel vaak over en over zonder en met geluid enondertiteling bekeken en met elkaar vergeleken. Het was een hele saaie scene vond ik zelf met maar ook vooral zonder geluid. Wat ik ook vond was dat ik vaak een ander gevoel interpeteerde van de scene en de ondertiteling zonder geluid. Dan met die van met geluid. Dit wilde ik dus een beetje  gaan rechttrekken door de geluiden visueel te maken.
       
-    -   ignore Conventions
+-   Ignore Conventions
     De situatie is vrij simpel maar toch complexer dan je denkt blijkbaar. Voor doven of slecht hoorende mensen is er namelijk wel ondertiteling. Maar dit is vaak heel erg oppervlakkig. Het gevoel wat geluid je moet geven bij een film wil je overbrengen... Maar dan zonder geluid te gebruiken. Dus na het bekijken van de film zonder geluid met alleen ondertiteling is dit heel saai voor deze groep gebruikers.
     
-    -   Prioritise Identity
+-   Prioritise Identity
     Omdat deze groep gebruikers dus niet of nauwlijks hoort heb ik mijn design voor deze groep mensen iets interessanter gemaakt,om voor hun te zien. Nu worden deze groep mensen niet uitgesloten en kunnen ze iets meer het gevoel van het geluid van een film visueel beleven.
     
-    -   Add Nonsense
+-   Add Nonsense
     Ik heb een aantal elementen toegevoegd die bijdragen aan het gelijkwaardig maken van het gevoel van de film met geluid dan die van zonder geluid. Dit betekende dat ik bijvoorbeeld 'vervelende' visuele elementen toe moest voegen, omdat het geluid ook vervelend was. Dit gaat eigenlijk tegen al mijn principes in als designer, omdat ik gewend ben om mooie en fijne dingen te maken voor gebruikers. Nu dus even niet.
 
 # Feedback momenten  
 In het eerste feedback moment kwamen de volgende punten naar voren waar we (het feedback groepje) en ik op moesten letten/verbeteren:
-    -   Het mag gedurfder, mag meer, juist veel proberen is goed
-    -   Het glitch effect niet alleen op woorden zoals "interlinked" en "cells", dat paste niet goed
-    -   Maak een duidelijk onderscheid in de scene van de hoofdpersoon en de intercom tussen de twee verschillende stemmen
-    -   Maak bijvoorbeeld alleen de intercom stem glitchy
+-   Het mag gedurfder, mag meer, juist veel proberen is goed
+-   Het glitch effect niet alleen op woorden zoals "interlinked" en "cells", dat paste niet goed
+-   Maak een duidelijk onderscheid in de scene van de hoofdpersoon en de intercom tussen de twee verschillende stemmen
+-   Maak bijvoorbeeld alleen de intercom stem glitchy
 
 Bij het tweede feedback moment:
-    -   Nog een paar geluidjes missen die nog toevoegen zoals alarmen
-    -   Het glitch effect nog echt op het beeld proberen met svg’s vragen aan sam
-    -   Het glitch effect op de tekst is goed op de luidspreker stem en die van de hoofdpersoon
+-   Nog een paar geluidjes missen die nog toevoegen zoals alarmen
+-   Het glitch effect nog echt op het beeld proberen met svg’s vragen aan sam
+-   Het glitch effect op de tekst is goed op de luidspreker stem en die van de hoofdpersoon
 
 # Herkansing
 Voor de herkansing moest ik alleen de Exclusive Design Principles toevoegen omdat ik die vergeten, ik moest nog wat meer aam mijn readme toevoegen en ik moest de vormgeving van mijn pieptoon nog iets langzamer op laten komen.
