@@ -25,6 +25,7 @@ Er zijn verschillende stemmen die je kan horen.
 ## Design keuzes 
 -   Ready?    
     Deze heb ik iets later dan de andere tekst erin laten komen en ook dikgedrukt en italic gemaakt. Dit omdat ik het woordje wel iets meer wilde benadrukken. Omdat als ik aan 'ready' denk, denk ik aan klaar om te gaan, daarom italic. Maar ik wilde het ook weer niet heel groot maken of echt heel anders omdat het woord niet op een andere toon gezegd wordt.
+    <img src="readme_img/1.Ready?.jpg" width="375px" alt="eerste versie/schets">
     
 -   Sound 1
     Bij sound 1 hoor je een alarm. Ik heb dit met keyframes een kleine animatie in het rood gegeven omdat bij dit alarm geluid dacht aan iets dat fout ging. Daarom rood.
