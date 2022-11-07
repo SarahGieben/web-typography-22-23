@@ -25,28 +25,34 @@ Er zijn verschillende stemmen die je kan horen.
 ## Design keuzes 
 -   Ready?    
     Deze heb ik iets later dan de andere tekst erin laten komen en ook dikgedrukt en italic gemaakt. Dit omdat ik het woordje wel iets meer wilde benadrukken. Omdat als ik aan 'ready' denk, denk ik aan klaar om te gaan, daarom italic. Maar ik wilde het ook weer niet heel groot maken of echt heel anders omdat het woord niet op een andere toon gezegd wordt.
-    <img src="readme_img/1.Ready?.jpg" width="375px" alt="eerste versie/schets">
+    <img src="readme_img/1.Ready?.jpg" width="375px" alt="Ready?">
     
 -   Sound 1
     Bij sound 1 hoor je een alarm. Ik heb dit met keyframes een kleine animatie in het rood gegeven omdat bij dit alarm geluid dacht aan iets dat fout ging. Daarom rood.
+    <img src="readme_img/2.Sound1.jpg" width="375px" alt="Alarm rood">
 
 -   Sound 3 
     Bij dit alarm heb ik hetzelfde bijna gedaan als bij sound 1, alleen is het nu wit. Omdat ik bij dit alarm meer dacht aan gewoon het geluid van een machine.
+    <img src="readme_img/3.Sound3.jpg" width="375px" alt="Alarm wit">
 
 -   Blood-Black
     Ik probeerde eerst druppels bloed onder het woord te laten animaren. Dat was me helaas ook niet gelukt. Dus toen had ik het gewoon alleen een tekst schadow gegeven en het zo gehouden, omdat ik geen bloed effectje kon maken:(
+    <img src="readme_img/4.BloodBlack.jpg" width="375px" alt="Blood-Black">
 
 -   Fuck off, skinjob
     Deze tekst heb ik lichter gemaakt. Bij het eerste voortgangsgesprek had ik deze tekst groter en bold gemaakt. Maar toen kreeg ik feedback dat het dan lijkt alsof hij het schreeuwt, wat helemaal niet zo is. Daarom heb ik de tekst lichter gemaakt en wat meer naar zijn hoofd verplaatst zodat het meer lijkt alsof hij het fluisterd.
+    <img src="readme_img/5.FuckOff.jpg" width="375px" alt="Fuck off, skinjob">
     
 -   Intercom tekst
     Voor de tekst van de intercom heb ik er voor gekozen om de tekst een beetje glitchy eruit te laten zien, om zo goed te
     kunnen onderscheiden van wat de intercom zegt en wat het hoofdpersonage zegt. Eerst had ik alleen de woorden als 'cells'
     en 'interlinked' dit effect gegeven maar ik kreeg de feedback dat je zo niet zo goed kan onderscheiden wie wat zegt en
     daar was ik het wel mee eens, dus heb ik dat aangepast.
+    <img src="readme_img/6.GlitchText.jpg" width="375px" alt="GlitchText">
 
 -   Glitch effect op beeld
     Om die piep een beetje vorm te geven heb ik ook zo'n glitch effect op het beeld gezet, wat steeds meer zichtbaar wordt naarmate je die piep harder hoort. Door dat effect heel aprupt te stoppen wilde ik de stilte die daarna kwam vorm te geven.
+    <img src="readme_img/7.GlitchBeeld.jpg" width="375px" alt="GlitchBeeld">
     
 ## Exclusive design principles 
 Een film bestaat simpel weg uit 2 hele belangrijke elementen. Namelijk beeld en geluid. Maar voor mensen die slecht of niet kunnen horen valt dus een heel belangrijk element van een film weg. De vraag is hoe los je dit op? Hoe sluit je deze mensen niet buiten?
