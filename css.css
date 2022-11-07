@@ -178,7 +178,7 @@ to {
 .sound9::before{
 	content:"";
 	position: absolute;
-	background: url(/giphy.gif);
+	background: url(../giphy.gif);
 	background-size: cover;
 	opacity: 0%;
 	aspect-ratio: 240.5/100;
@@ -191,7 +191,7 @@ to {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	animation: glitch 43s;
-	animation-delay: 17s;
+	animation-delay: 5s;
 	background-blend-mode: multiply;
 	filter: grayscale(1);
 }
@@ -202,7 +202,7 @@ to {
 		opacity: 0;
 		/* transform: scale(0.2) */
 	}
-	50% { 34s
+	50% {
 		opacity: 0;
 		/* transform: scale(0.5) */
 	}
